@@ -1,0 +1,37 @@
+.layout {
+    margin: 35px;
+}
+
+.answer {
+    margin: 5px 20px;
+}
+
+#answer-option {
+    margin-left: 8px
+}
+
+/* .question-card {
+    margin: 20px;
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+    padding: 20px;
+    background-color: #ffffff !important;
+    box-shadow: 5px 2px 10px 0px #b9b9b9;
+} */
+
+.question-card {
+    background-color: #fffefd;
+    /* background: linear-gradient(90deg, #effaff 0%, #d9e7ff 100%);
+    background-image: linear-gradient(90deg, rgb(239, 250, 255) 0%, rgb(217, 231, 255) 100%); */
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 5px 2px 10px 0px #b9b9b9;
+}
+
+.textCenter {
+    text-align: center !important;
+} 
+
+.pagination-div {
+    margin-top: 4%;
+    margin-left: 30%;
+}
